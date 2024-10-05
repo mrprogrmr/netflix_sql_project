@@ -10,7 +10,7 @@ create table netflix
 	casts			varchar(1000),
 	country			varchar(150),
 	date_added		varchar(50),
-	release_year	int,
+	release_year		int,
 	rating			varchar(10),
 	duration		varchar(15),
 	listed_in		varchar(100),
